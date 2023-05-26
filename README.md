@@ -1,5 +1,5 @@
 # Data-Analysis-Projects
-This repository contains my data analysis work where i have performed Data analysis tasks such as Data preprocessing, Data Cleaning, Data Visualization.
+This repository contains my data analysis projects where i have performed Data analysis tasks such as Data preprocessing, Data Cleaning, Data Visualization.
 
 Project 1 - Housing Dashboard 
 Data Analysis of Home Prices in California from 1990
