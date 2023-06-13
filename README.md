@@ -6,7 +6,7 @@ Data Analysis of Home Prices in California from 1990
 I have performed Data analysis of home prices in California in 1990. This public dataset is taken from Kaggle. The Data cleaning, analysis and visualization has been
 performed in Microsoft Excel.
 
-![2023-06-13_01-04-26](https://github.com/Mabrar92/Data-Analysis-Projects/assets/18236632/8f1e4aea-93a4-49a1-b543-e175adc43639)
+![Housing Dashboard](https://github.com/Mabrar92/Data-Analysis-Projects/assets/18236632/8f1e4aea-93a4-49a1-b543-e175adc43639)
 
 
 
@@ -19,4 +19,5 @@ Data Analysis of Home Prices in California from 1990
 I have developed a Microsoft financial performance dashboard. The data is scrapped from yahoo finance and updates automatically. The Data cleaning, analysis and visualization has been performed in Microsoft Excel.
 
 
-![MCRSFT Financial Performance Dashboard Look](https://github.com/Mabrar92/Data-Analysis-Projects/assets/18236632/a2e710f9-5816-49c0-b948-c1bdac26eedd)
+![MCRSFT Financial Performance Dashboard Look](https://github.com/Mabrar92/Data-Analysis-Projects/assets/18236632/0a2db20e-4aca-47c3-9531-57641e243cca)
+
