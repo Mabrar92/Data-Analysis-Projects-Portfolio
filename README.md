@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# Data Analysis Projects Portfolio
 This repository contains my data analysis projects where i have performed Data analysis tasks such as Data preprocessing, Data Cleaning, Data Visualization.
 
 ## [Project 1 - Housing Dashboard - Excel](https://github.com/Mabrar92/Data-Analysis-Projects/blob/main/Data%20Analysis%20of%20Home%20Prices%20in%20Cali%201990.xlsx).
