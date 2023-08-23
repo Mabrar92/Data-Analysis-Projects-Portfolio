@@ -12,7 +12,6 @@ performed in Microsoft Excel.
 ![Housing Dashboard](https://github.com/Mabrar92/Data-Analysis-Projects/assets/18236632/8f1e4aea-93a4-49a1-b543-e175adc43639)
 
 ## [Project  - Microsoft Financial Performance Dashboard - Excel](https://github.com/Mabrar92/Data-Analysis-Projects/blob/main/MSFT%20Financial%20Performance.xlsx)
-Data Analysis of Home Prices in California from 1990
 I have developed a Microsoft financial performance dashboard. The data is scrapped from yahoo finance and updates automatically. The Data cleaning, analysis and visualization has been performed in Microsoft Excel.
 
 
